@@ -2,6 +2,8 @@
 
 Simple GHCJS application demonstrating xhr request.
 
+[DEMO](https://kayhide.github.io/nasa-apod/index.html)
+
 Based on [Haskell Workshop on Reflex FRP](http://ny-haskell.org/events/2016/03/27/haskell-workshop.html).
 
 Using:
